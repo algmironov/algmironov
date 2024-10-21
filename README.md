@@ -1,16 +1,24 @@
-## Hi there 👋
+<div align="center">
+  <h2>Hi there 👋</h3>
+  <h2>It's me, Aleksey Mironov aka algmironov</h2>
+</div>
 
-<!--
-**algmironov/algmironov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div style="width:40%;height:0;padding-bottom:100%;position:relative;" align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXh1aXdvOGducGhraWp3aTV1djB1aTRtNmdrMHAyeTZrajluZGJkZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cegAA2LlR200FMQbgG/giphy.gif" width="40%" height="40%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></img>
+</div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <div margin=10px align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=algmironov&show_icons=true&theme=transparent" height=200/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=algmironov&layout=compact" height=200 />
+  </div>
+  <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=algmironov&theme=material-palenight&border_radius=5.7"/>
+  </div>
+
+<div>
+  <h3>
+    Contact me:
+  </h3>
+  <a href="https://t.me/Alexey_G_M">via Telegram</a>
+</div>
