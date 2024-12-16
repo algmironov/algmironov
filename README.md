@@ -12,9 +12,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=algmironov&show_icons=true&theme=transparent" height=200/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=algmironov&layout=compact" height=200 />
   </div>
-  <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=algmironov&theme=material-palenight&border_radius=5.7"/>
-  </div>
+ 
 
 <div>
   <h3>
