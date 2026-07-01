@@ -103,7 +103,7 @@ var me = new Developer
   "github-readme-stats.vercel.app" with your own "<your-app>.vercel.app".
 -->
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=algmironov&show_icons=true&title_color=FF6B35&text_color=C9D1D9&icon_color=FFB84C&bg_color=0D1117&border_color=21262D&border_radius=12&include_all_commits=true&count_private=true" alt="stats"/>
+  <img height="165" src="https://github-readme-stats-silk-zeta-41.vercel.app/api?username=algmironov&show_icons=true&title_color=FF6B35&text_color=C9D1D9&icon_color=FFB84C&bg_color=0D1117&border_color=21262D&border_radius=12&include_all_commits=true&count_private=true" alt="stats"/>
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=algmironov&layout=compact&title_color=FF6B35&text_color=C9D1D9&icon_color=FFB84C&bg_color=0D1117&border_color=21262D&border_radius=12&langs_count=8" alt="top langs"/>
 </div>
 
