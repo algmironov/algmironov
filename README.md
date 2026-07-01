@@ -62,25 +62,46 @@ var me = new Developer
 <!-- ============ FEATURED PROJECTS ============ -->
 ## 📌 Featured projects
 
-<div align="center">
-  <a href="https://github.com/algmironov/MacBot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=algmironov&repo=MacBot&title_color=FF6B35&text_color=C9D1D9&icon_color=FFB84C&bg_color=0D1117&border_color=21262D&border_radius=12" alt="MacBot"/>
-  </a>
-  <a href="https://github.com/algmironov/WinAppFrameworksComparison">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=algmironov&repo=WinAppFrameworksComparison&title_color=FF6B35&text_color=C9D1D9&icon_color=FFB84C&bg_color=0D1117&border_color=21262D&border_radius=12" alt="WinAppFrameworksComparison"/>
-  </a>
-  <br/>
-  <a href="https://github.com/algmironov/CloudRu.ObjectStorageHelper">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=algmironov&repo=CloudRu.ObjectStorageHelper&title_color=FF6B35&text_color=C9D1D9&icon_color=FFB84C&bg_color=0D1117&border_color=21262D&border_radius=12" alt="CloudRu.ObjectStorageHelper"/>
-  </a>
-  <a href="https://github.com/algmironov/CodeToImageGenerator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=algmironov&repo=CodeToImageGenerator&title_color=FF6B35&text_color=C9D1D9&icon_color=FFB84C&bg_color=0D1117&border_color=21262D&border_radius=12" alt="CodeToImageGenerator"/>
-  </a>
-</div>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 <a href="https://github.com/algmironov/MacBot">MacBot</a></h3>
+      <p>Telegram bot for psychologists' sessions using metaphorical association cards.</p>
+      <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" alt="C#"/>
+      <img src="https://img.shields.io/github/stars/algmironov/MacBot?style=flat-square&color=FF6B35&labelColor=0D1117" alt="stars"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🖥️ <a href="https://github.com/algmironov/WinAppFrameworksComparison">WinAppFrameworksComparison</a></h3>
+      <p>Hands-on comparison of C# desktop UI frameworks (WPF, WinForms, Avalonia, MAUI).</p>
+      <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" alt="C#"/>
+      <img src="https://img.shields.io/github/stars/algmironov/WinAppFrameworksComparison?style=flat-square&color=FF6B35&labelColor=0D1117" alt="stars"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>☁️ <a href="https://github.com/algmironov/CloudRu.ObjectStorageHelper">CloudRu.ObjectStorageHelper</a></h3>
+      <p>Unofficial .NET library for working with Cloud.ru object storage.</p>
+      <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" alt="C#"/>
+      <img src="https://img.shields.io/github/stars/algmironov/CloudRu.ObjectStorageHelper?style=flat-square&color=FF6B35&labelColor=0D1117" alt="stars"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🖼️ <a href="https://github.com/algmironov/CodeToImageGenerator">CodeToImageGenerator</a></h3>
+      <p>Telegram bot + mini app that turns code snippets into shareable images.</p>
+      <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" alt="C#"/>
+      <img src="https://img.shields.io/github/stars/algmironov/CodeToImageGenerator?style=flat-square&color=FF6B35&labelColor=0D1117" alt="stars"/>
+    </td>
+  </tr>
+</table>
 
 <!-- ============ GITHUB STATS ============ -->
 ## 📊 GitHub stats
 
+<!--
+  NOTE: the two cards below use github-readme-stats.vercel.app — the shared
+  public instance is often rate-limited by the GitHub API and may fail to load.
+  For a permanent fix, deploy your own instance (see setup notes) and replace
+  "github-readme-stats.vercel.app" with your own "<your-app>.vercel.app".
+-->
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=algmironov&show_icons=true&title_color=FF6B35&text_color=C9D1D9&icon_color=FFB84C&bg_color=0D1117&border_color=21262D&border_radius=12&include_all_commits=true&count_private=true" alt="stats"/>
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=algmironov&layout=compact&title_color=FF6B35&text_color=C9D1D9&icon_color=FFB84C&bg_color=0D1117&border_color=21262D&border_radius=12&langs_count=8" alt="top langs"/>
@@ -90,19 +111,11 @@ var me = new Developer
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=algmironov&background=0D1117&border=21262D&stroke=21262D&ring=FF6B35&fire=FF6B35&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=FF6B35&sideLabels=FFB84C&dates=8B949E&border_radius=12" alt="streak"/>
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=algmironov&theme=onedark&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7" alt="trophies"/>
-</div>
-
 <!-- ============ CONTRIBUTION SNAKE ============ -->
 ## 🐍 Contribution graph
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/algmironov/algmironov/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/algmironov/algmironov/output/github-snake.svg" />
-    <img alt="snake animation" src="https://raw.githubusercontent.com/algmironov/algmironov/output/github-snake.svg" />
-  </picture>
+  <img alt="snake animation" src="https://raw.githubusercontent.com/algmironov/algmironov/output/github-snake-dark.svg" />
 </div>
 
 <!-- ============ CONNECT ============ -->
