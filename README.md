@@ -1,12 +1,12 @@
 <!-- ============ HEADER ============ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B35,100:FFB84C&height=200&section=header&text=Alexey%20Mironov&fontSize=52&fontColor=0D1117&fontAlignY=38&desc=C%23%20%2F%20.NET%20Developer%20%C2%B7%20IRON%20PROGRAMMER&descSize=18&descAlignY=60&descAlign=50" width="100%" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B35,100:FFB84C&height=200&section=header&text=Alexey%20Mironov&fontSize=52&fontColor=0D1117&fontAlignY=38&desc=C%23%20%2F%20.NET%20Developer&descSize=18&descAlignY=60&descAlign=50" width="100%" alt="header"/>
 </div>
 
 <!-- ============ TYPING SUBTITLE ============ -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=FF6B35&center=true&vCenter=true&width=620&height=50&lines=C%23+%2F+.NET+Developer;Building+Telegram+bots+%26+dev+tools;Cross-platform+desktop+%26+CLI+apps;IRON+PROGRAMMER+dev+team" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=FF6B35&center=true&vCenter=true&width=620&height=50&lines=C%23+%2F+.NET+Developer;Building+Telegram+bots+%26+dev+tools;Cross-platform+desktop+%26+CLI+apps;Open-source+%26+personal+dev+tools" alt="Typing SVG" />
   </a>
 </div>
 
@@ -30,10 +30,9 @@
 var me = new Developer
 {
     Name       = "Alexey Mironov",
-    Role       = ".NET Developer @ IRON PROGRAMMER",
+    Role       = ".NET Developer",
     Location   = "Moscow, Russia 🇷🇺",
     Focus      = new[] { "Telegram bots", "Desktop apps", "Dev tools & CLI" },
-    Writing    = "C# Magazine @ teletype.in/@csharpmagazine",
     Motto      = "Ship small, ship often."
 };
 ```
@@ -65,30 +64,26 @@ var me = new Developer
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🤖 <a href="https://github.com/algmironov/MacBot">MacBot</a></h3>
-      <p>Telegram bot for psychologists' sessions using metaphorical association cards.</p>
-      <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" alt="C#"/>
-      <img src="https://img.shields.io/github/stars/algmironov/MacBot?style=flat-square&color=FF6B35&labelColor=0D1117" alt="stars"/>
-    </td>
-    <td width="50%" valign="top">
       <h3>🖥️ <a href="https://github.com/algmironov/WinAppFrameworksComparison">WinAppFrameworksComparison</a></h3>
       <p>Hands-on comparison of C# desktop UI frameworks (WPF, WinForms, Avalonia, MAUI).</p>
       <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" alt="C#"/>
-      <img src="https://img.shields.io/github/stars/algmironov/WinAppFrameworksComparison?style=flat-square&color=FF6B35&labelColor=0D1117" alt="stars"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📏 <a href="https://github.com/algmironov/CodeLines">CodeLines</a></h3>
+      <p>.NET CLI that counts the real lines of code in a project — skips blanks and honours custom ignore patterns.</p>
+      <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" alt="C#"/>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>☁️ <a href="https://github.com/algmironov/CloudRu.ObjectStorageHelper">CloudRu.ObjectStorageHelper</a></h3>
-      <p>Unofficial .NET library for working with Cloud.ru object storage.</p>
+      <h3>🔐 <a href="https://github.com/algmironov/PasswordGeneratorCLI">PasswordGeneratorCLI</a></h3>
+      <p>Cross-platform command-line tool for generating strong, configurable passwords.</p>
       <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" alt="C#"/>
-      <img src="https://img.shields.io/github/stars/algmironov/CloudRu.ObjectStorageHelper?style=flat-square&color=FF6B35&labelColor=0D1117" alt="stars"/>
     </td>
     <td width="50%" valign="top">
-      <h3>🖼️ <a href="https://github.com/algmironov/CodeToImageGenerator">CodeToImageGenerator</a></h3>
-      <p>Telegram bot + mini app that turns code snippets into shareable images.</p>
+      <h3>🔍 <a href="https://github.com/algmironov/file_finder">file_finder</a></h3>
+      <p>CLI utility to quickly locate files and directories by name or pattern.</p>
       <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" alt="C#"/>
-      <img src="https://img.shields.io/github/stars/algmironov/CodeToImageGenerator?style=flat-square&color=FF6B35&labelColor=0D1117" alt="stars"/>
     </td>
   </tr>
 </table>
@@ -96,15 +91,9 @@ var me = new Developer
 <!-- ============ GITHUB STATS ============ -->
 ## 📊 GitHub stats
 
-<!--
-  NOTE: the two cards below use github-readme-stats.vercel.app — the shared
-  public instance is often rate-limited by the GitHub API and may fail to load.
-  For a permanent fix, deploy your own instance (see setup notes) and replace
-  "github-readme-stats.vercel.app" with your own "<your-app>.vercel.app".
--->
 <div align="center">
   <img height="165" src="https://github-readme-stats-silk-zeta-41.vercel.app/api?username=algmironov&show_icons=true&title_color=FF6B35&text_color=C9D1D9&icon_color=FFB84C&bg_color=0D1117&border_color=21262D&border_radius=12&include_all_commits=true&count_private=true" alt="stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=algmironov&layout=compact&title_color=FF6B35&text_color=C9D1D9&icon_color=FFB84C&bg_color=0D1117&border_color=21262D&border_radius=12&langs_count=8" alt="top langs"/>
+  <img height="165" src="https://github-readme-stats-silk-zeta-41.vercel.app/api/top-langs/?username=algmironov&layout=compact&title_color=FF6B35&text_color=C9D1D9&icon_color=FFB84C&bg_color=0D1117&border_color=21262D&border_radius=12&langs_count=8" alt="top langs"/>
 </div>
 
 <div align="center">
@@ -115,7 +104,7 @@ var me = new Developer
 ## 🐍 Contribution graph
 
 <div align="center">
-  <img alt="snake animation" src="https://raw.githubusercontent.com/algmironov/algmironov/output/github-snake-dark.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/algmironov/algmironov/output/github-snake-dark.svg?v=2" />
 </div>
 
 <!-- ============ CONNECT ============ -->
@@ -125,8 +114,8 @@ var me = new Developer
   <a href="https://t.me/algmironov">
     <img src="https://img.shields.io/badge/Telegram-%40algmironov-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"/>
   </a>
-  <a href="https://teletype.in/@csharpmagazine">
-    <img src="https://img.shields.io/badge/C%23_Magazine-Teletype-FF6B35?style=for-the-badge&logo=readthedocs&logoColor=white" alt="teletype"/>
+  <a href="https://github.com/algmironov">
+    <img src="https://img.shields.io/badge/GitHub-algmironov-FF6B35?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
   </a>
 </div>
 
