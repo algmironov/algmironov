@@ -1,22 +1,123 @@
+<!-- ============ HEADER ============ -->
 <div align="center">
-  <h2>Hi there 👋</h3>
-  <h2>It's me, Aleksey Mironov aka algmironov</h2>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B35,100:FFB84C&height=200&section=header&text=Alexey%20Mironov&fontSize=52&fontColor=0D1117&fontAlignY=38&desc=C%23%20%2F%20.NET%20Developer%20%C2%B7%20IRON%20PROGRAMMER&descSize=18&descAlignY=60&descAlign=50" width="100%" alt="header"/>
 </div>
 
-<div style="width:40%;height:0;padding-bottom:100%;position:relative;" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXh1aXdvOGducGhraWp3aTV1djB1aTRtNmdrMHAyeTZrajluZGJkZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cegAA2LlR200FMQbgG/giphy.gif" width="40%" height="40%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></img>
+<!-- ============ TYPING SUBTITLE ============ -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=FF6B35&center=true&vCenter=true&width=620&height=50&lines=C%23+%2F+.NET+Developer;Building+Telegram+bots+%26+dev+tools;Cross-platform+desktop+%26+CLI+apps;IRON+PROGRAMMER+dev+team" alt="Typing SVG" />
+  </a>
 </div>
 
+<!-- ============ BADGES ROW ============ -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=algmironov&label=Profile%20views&color=FF6B35&style=flat-square" alt="views"/>
+  <a href="https://github.com/algmironov?tab=followers">
+    <img src="https://img.shields.io/github/followers/algmironov?label=Followers&style=flat-square&color=FF6B35&labelColor=0D1117" alt="followers"/>
+  </a>
+  <a href="https://t.me/algmironov">
+    <img src="https://img.shields.io/badge/Telegram-%40algmironov-FF6B35?style=flat-square&logo=telegram&logoColor=white&labelColor=0D1117" alt="telegram"/>
+  </a>
+</div>
 
-  <div margin=10px align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=algmironov&show_icons=true&theme=transparent" height=200/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=algmironov&layout=compact" height=200 />
-  </div>
- 
+<br/>
 
-<div>
-  <h3>
-    Contact me:
-  </h3>
-  <a href="https://t.me/Alexey_G_M">via Telegram</a>
+<!-- ============ ABOUT ============ -->
+## 🔩 About me
+
+```csharp
+var me = new Developer
+{
+    Name       = "Alexey Mironov",
+    Role       = ".NET Developer @ IRON PROGRAMMER",
+    Location   = "Moscow, Russia 🇷🇺",
+    Focus      = new[] { "Telegram bots", "Desktop apps", "Dev tools & CLI" },
+    Writing    = "C# Magazine @ teletype.in/@csharpmagazine",
+    Motto      = "Ship small, ship often."
+};
+```
+
+<!-- ============ TECH STACK ============ -->
+## 🛠️ Tech Stack
+
+<div align="center">
+
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Telegram Bot API](https://img.shields.io/badge/Telegram_Bot_API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,docker,git,postgres,sqlite,redis,linux,github&theme=dark" alt="skills"/>
+
+</div>
+
+<!-- ============ FEATURED PROJECTS ============ -->
+## 📌 Featured projects
+
+<div align="center">
+  <a href="https://github.com/algmironov/MacBot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=algmironov&repo=MacBot&title_color=FF6B35&text_color=C9D1D9&icon_color=FFB84C&bg_color=0D1117&border_color=21262D&border_radius=12" alt="MacBot"/>
+  </a>
+  <a href="https://github.com/algmironov/WinAppFrameworksComparison">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=algmironov&repo=WinAppFrameworksComparison&title_color=FF6B35&text_color=C9D1D9&icon_color=FFB84C&bg_color=0D1117&border_color=21262D&border_radius=12" alt="WinAppFrameworksComparison"/>
+  </a>
+  <br/>
+  <a href="https://github.com/algmironov/CloudRu.ObjectStorageHelper">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=algmironov&repo=CloudRu.ObjectStorageHelper&title_color=FF6B35&text_color=C9D1D9&icon_color=FFB84C&bg_color=0D1117&border_color=21262D&border_radius=12" alt="CloudRu.ObjectStorageHelper"/>
+  </a>
+  <a href="https://github.com/algmironov/CodeToImageGenerator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=algmironov&repo=CodeToImageGenerator&title_color=FF6B35&text_color=C9D1D9&icon_color=FFB84C&bg_color=0D1117&border_color=21262D&border_radius=12" alt="CodeToImageGenerator"/>
+  </a>
+</div>
+
+<!-- ============ GITHUB STATS ============ -->
+## 📊 GitHub stats
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=algmironov&show_icons=true&title_color=FF6B35&text_color=C9D1D9&icon_color=FFB84C&bg_color=0D1117&border_color=21262D&border_radius=12&include_all_commits=true&count_private=true" alt="stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=algmironov&layout=compact&title_color=FF6B35&text_color=C9D1D9&icon_color=FFB84C&bg_color=0D1117&border_color=21262D&border_radius=12&langs_count=8" alt="top langs"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=algmironov&background=0D1117&border=21262D&stroke=21262D&ring=FF6B35&fire=FF6B35&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=FF6B35&sideLabels=FFB84C&dates=8B949E&border_radius=12" alt="streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=algmironov&theme=onedark&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7" alt="trophies"/>
+</div>
+
+<!-- ============ CONTRIBUTION SNAKE ============ -->
+## 🐍 Contribution graph
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/algmironov/algmironov/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/algmironov/algmironov/output/github-snake.svg" />
+    <img alt="snake animation" src="https://raw.githubusercontent.com/algmironov/algmironov/output/github-snake.svg" />
+  </picture>
+</div>
+
+<!-- ============ CONNECT ============ -->
+## 🤝 Connect
+
+<div align="center">
+  <a href="https://t.me/algmironov">
+    <img src="https://img.shields.io/badge/Telegram-%40algmironov-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"/>
+  </a>
+  <a href="https://teletype.in/@csharpmagazine">
+    <img src="https://img.shields.io/badge/C%23_Magazine-Teletype-FF6B35?style=for-the-badge&logo=readthedocs&logoColor=white" alt="teletype"/>
+  </a>
+</div>
+
+<!-- ============ FOOTER ============ -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB84C,100:FF6B35&height=120&section=footer" width="100%" alt="footer"/>
 </div>
