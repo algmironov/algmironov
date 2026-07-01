@@ -32,7 +32,7 @@ var me = new Developer
     Name       = "Alexey Mironov",
     Role       = ".NET Developer",
     Location   = "Moscow, Russia 🇷🇺",
-    Focus      = new[] { "Telegram bots", "Desktop apps", "Dev tools & CLI" },
+    Focus      = new[] { "Telegram bots", "Web apps", "Desktop apps", "Dev tools & CLI" },
     Motto      = "Ship small, ship often."
 };
 ```
